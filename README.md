@@ -88,6 +88,7 @@ An **agent SDK** provides the programmable agent loop: model calls, tool definit
 | [VoltAgent](https://github.com/VoltAgent/voltagent) | 🟢 Open source | VoltAgent is a TypeScript framework for agents and supervisor patterns with tools, memory, workflows, guardrails, voice integrations, and OpenTelemetry-based observability. |
 | [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | 🟢 Open source | NVIDIA NeMo Agent Toolkit is a framework-agnostic Python toolkit for composing, profiling, evaluating, and optimizing agent workflows while integrating with existing agent libraries and telemetry backends. |
 | [Julep](https://github.com/julep-ai/julep) | 🔵 Open core | Julep is a stateful agent platform with an open SDK and task language for defining multi-step, scheduled, and long-running workflows backed by managed sessions and storage. |
+| [Kimss Forge](https://github.com/kimss-ai/kimss-forge) | 🟢 Open source | Kimss Forge is a MIT-licensed Python agent harness for local multi-turn tool loops on any OpenAI-compatible endpoint, with an optional one-line Kimss gateway connect for production identity and kill switch. |
 | [Rig](https://github.com/0xPlaygrounds/rig) | 🟢 Open source | Rig is a Rust library for building portable LLM applications and agents with provider abstractions, tools, vector stores, RAG, and typed extraction. |
 
 ## Agent Orchestration and Workflow Frameworks

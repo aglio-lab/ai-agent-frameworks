@@ -211,6 +211,17 @@
       "secondary_links": []
     },
     {
+      "id": "agent-sdks-and-general-purpose-frameworks--kimss-forge",
+      "name": "Kimss Forge",
+      "artifact_type": "framework-or-library",
+      "category": "Agent SDKs and General-Purpose Frameworks",
+      "availability": "open-source",
+      "status": "active",
+      "primary_url": "https://github.com/kimss-ai/kimss-forge",
+      "description": "Kimss Forge is a MIT-licensed Python agent harness for local multi-turn tool loops on any OpenAI-compatible endpoint, with an optional one-line Kimss gateway connect for production identity and kill switch.",
+      "secondary_links": []
+    },
+    {
       "id": "agent-sdks-and-general-purpose-frameworks--rig",
       "name": "Rig",
       "artifact_type": "framework-or-library",
