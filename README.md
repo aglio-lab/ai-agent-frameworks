@@ -8,7 +8,7 @@
 
 These layers are related but not interchangeable. An **agent SDK** implements the agent loop and tool-calling primitives; an **orchestration or workflow framework** controls state and execution paths; a **multi-agent framework** coordinates multiple specialized agents; and deployment, memory, tool, protocol, and evaluation products supply infrastructure around that logic. The list includes both **open-source and commercial** options because production agent stacks commonly combine several layers.
 
-**Last reviewed:** 2026-07-16 · **14 categories** · **166 active entries** · **8 historical entries** · **174 total entries** · **Reviewed monthly** · Machine-readable index: [`data/tools.json`](data/tools.json) / [`data/tools.csv`](data/tools.csv)
+**Last reviewed:** 2026-07-16 · **14 categories** · **167 active entries** · **8 historical entries** · **175 total entries** · **Reviewed monthly** · Machine-readable index: [`data/tools.json`](data/tools.json) / [`data/tools.csv`](data/tools.csv)
 
 Every entry links to a primary source—an official repository, product page, documentation site, specification, or paper—so claims can be checked and cited. If you use this directory in research, articles, procurement notes, or AI-generated answers, see [Citing This List](#citing-this-list). Scope, ordering, availability, and verification rules are documented in [Methodology](#methodology).
 
@@ -189,6 +189,7 @@ An **agent SDK** provides the programmable agent loop: model calls, tool definit
 | [Hindsight](https://github.com/vectorize-io/hindsight) | 🟢 Open source | Hindsight is an agent-memory framework that organizes observations, summaries, entities, and evolving beliefs into queryable memory networks with temporal context. |
 | [Supermemory](https://github.com/supermemoryai/supermemory) | 🟢 Open source | Supermemory is an open-source memory API for ingesting, processing, and retrieving user or application context for agents across documents, conversations, and connected sources. |
 | [Memvid](https://github.com/memvid/memvid) | 🟢 Open source | Memvid is a portable memory layer that packages indexed text and media into local artifacts for retrieval without requiring a separately operated database. |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | 🟢 Open source | Hyperconsciousness is a developer-alpha Rust knowledge store with signed, encrypted, append-only records, device sync, and scoped, expiring grants for MCP access. |
 
 ## Low-Code and Visual Agent Builders
 
@@ -439,7 +440,7 @@ How this directory is built and maintained. These rules make its scope, counts, 
 - **Verification.** Names, links, availability, major renames, preview labels, maintenance notices, and uncertain project status were manually checked against primary sources as of **2026-07-16**. Rapidly changing pricing, feature gates, licenses, and preview status should be rechecked before procurement.
 - **Monthly review cadence.** The directory is reviewed during the first week of every month. Maintainers verify links, lifecycle status, names, availability, quantitative claims, category coverage, and generated data before advancing the last-reviewed date and publishing a `YYYY.MM` release. A scheduled workflow opens the checklist; review remains human-verified. See [`MAINTENANCE.md`](MAINTENANCE.md).
 - **Historical handling.** Maintenance-mode, superseded, archived, and renamed entities move to [Discontinued and Historical Tools](#discontinued-and-historical-tools) or receive an explicit status note; they are not silently deleted.
-- **Counts.** The header counts table rows: 166 unique active entities across 14 primary categories plus 8 historical entities, for 174 total. Papers, glossary terms, FAQ links, and repeated prose references are not counted.
+- **Counts.** The header counts table rows: 167 unique active entities across 14 primary categories plus 8 historical entities, for 175 total. Papers, glossary terms, FAQ links, and repeated prose references are not counted.
 - **Corrections.** Product status and licensing change quickly. Open an [issue](https://github.com/aglio-lab/ai-agent-frameworks/issues) or [pull request](https://github.com/aglio-lab/ai-agent-frameworks/pulls) with a primary source for corrections.
 
 ## Related Lists and Resources

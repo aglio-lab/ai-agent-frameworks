@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-agent-frameworks",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 174,
+  "entry_count": 175,
   "category_count": 15,
   "categories": {
     "Agent SDKs and General-Purpose Frameworks": 18,
@@ -11,7 +11,7 @@
     "Multi-Agent Systems and Research Frameworks": 10,
     "Browser, Computer-Use, and Coding Agents": 18,
     "Tool Use, MCP, and Integration Infrastructure": 18,
-    "Agent Memory and State Infrastructure": 9,
+    "Agent Memory and State Infrastructure": 10,
     "Low-Code and Visual Agent Builders": 13,
     "Durable Execution and Background Workflows": 10,
     "Cloud-Managed Agent Services": 12,
@@ -934,6 +934,17 @@
       "status": "active",
       "primary_url": "https://github.com/memvid/memvid",
       "description": "Memvid is a portable memory layer that packages indexed text and media into local artifacts for retrieval without requiring a separately operated database.",
+      "secondary_links": []
+    },
+    {
+      "id": "agent-memory-and-state-infrastructure--hyperconsciousness",
+      "name": "Hyperconsciousness",
+      "artifact_type": "tool",
+      "category": "Agent Memory and State Infrastructure",
+      "availability": "open-source",
+      "status": "active",
+      "primary_url": "https://github.com/louis030195/hyperconsciousness",
+      "description": "Hyperconsciousness is a developer-alpha Rust knowledge store with signed, encrypted, append-only records, device sync, and scoped, expiring grants for MCP access.",
       "secondary_links": []
     },
     {
