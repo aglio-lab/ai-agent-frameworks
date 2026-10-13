@@ -264,6 +264,7 @@ An **agent SDK** provides the programmable agent loop: model calls, tool definit
 | [BentoML](https://github.com/bentoml/BentoML) | 🟢 Open source | BentoML is a Python model-serving framework for packaging APIs, models, and agent applications into deployable services with containers, batching, observability, and cloud deployment options. |
 | [Ray Serve](https://docs.ray.io/en/latest/serve/) | 🟢 Open source | Ray Serve is a scalable Python serving library for composing model and application deployments with autoscaling, batching, routing, and distributed resource management. |
 | [LangSmith Deployment](https://docs.langchain.com/langsmith/deployments) | 🔒 Commercial | LangSmith Deployment is LangChain's managed and self-hosted-capable deployment product for serving LangGraph applications with durable state, queues, assistants, revisions, scaling, and operational controls. |
+| [Agent Barn](https://github.com/aai-labs/agent-barn) | 🔵 Open core | Agent Barn is an open-source (Apache-2.0) control plane for AI agent teams: chat front ends in Slack, Teams, Telegram, Discord and email; every conversation, tool call, log and cost is recorded; runs agent runtimes like Hermes and OpenClaw on your own Kubernetes cluster via Helm. |
 
 ## Agent Evaluation, Observability, and Testing
 
